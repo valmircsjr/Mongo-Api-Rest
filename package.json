@@ -1,0 +1,14 @@
+{
+	"name": "nodejs-image-demo",
+	"version": "1.0.0",
+	"description": "nodejs mongo app",
+	"author": "Valmir Correa da Silva Junior",
+	"main": "apiRest.js",
+	"dependencies": {
+		"express": "^4.16.4",
+		"mongoose": "^5.7.3"
+	},
+	"scripts": {
+		"start": "node apiRest.js"
+	}
+}

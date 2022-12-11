@@ -5,7 +5,7 @@
 	"author": "Valmir Correa da Silva Junior",
 	"main": "apiRest.js",
 	"dependencies": {
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"mongoose": "^5.7.3"
 	},
 	"scripts": {
